@@ -1,0 +1,23 @@
+body {
+  background-color: purple;
+  color:white;
+}
+
+img {
+  float: center;
+  margin: 10px;
+  border-color: azure;
+  border-width: 4px;
+  border-style: solid;
+  border-radius: 10px;
+}
+
+h1 {
+    font-family: fantasy;
+    background-color: purple;
+    width:620px;
+}
+
+p{
+  font-size: 25px;
+}
